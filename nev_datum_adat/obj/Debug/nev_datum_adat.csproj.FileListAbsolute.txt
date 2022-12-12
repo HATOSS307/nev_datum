@@ -1,0 +1,11 @@
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\bin\Debug\nev_datum_adat.exe.config
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\bin\Debug\nev_datum_adat.exe
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\bin\Debug\nev_datum_adat.pdb
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.csproj.AssemblyReference.cache
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.Form1.resources
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.Properties.Resources.resources
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.csproj.GenerateResource.cache
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.exe
+C:\Users\cisco\source\repos\nev_datum_adat\nev_datum_adat\obj\Debug\nev_datum_adat.pdb
